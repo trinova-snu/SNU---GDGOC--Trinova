@@ -1,41 +1,33 @@
 # 🌱 PANTRIX  
-### Smart Food Management for a Sustainable Tomorrow  
-**Aligned with UN Sustainable Development Goal 12 – Responsible Consumption & Production**
+### AI + IoT Solution for Food Waste Reduction (SDG 12)
 
-> *“Because every grain counts, let’s safeguard our global pantry for a sustainable tomorrow.”*
-
----
-
-## 🚀 About PANTRIX
-
-**PANTRIX** is an **AI + IoT powered smart food management platform** designed to reduce food waste at **homes, restaurants, and communities**.  
-It tackles one of the world’s biggest sustainability challenges:
-
-📉 **1/3rd of global food production is wasted every year**, leading to:
-- Methane emissions 🌍  
-- Water & energy loss 💧⚡  
-- Food insecurity 🍽️  
-
-PANTRIX transforms food from *forgotten* to *flourishing*.
+PANTRIX is a smart food management system that helps **homes and restaurants** reduce food waste using **real-time tracking, AI insights, and automation**.
 
 ---
 
-## 🎯 Problem Statement
+## ❗ Problem Statement
+Nearly **one-third of global food production is wasted every year**, with the majority occurring in **households and restaurants**.  
+This waste is mainly caused by:
+- Forgotten or misunderstood expiry dates  
+- Overbuying and poor inventory management  
+- Lack of real-time tracking and personalized reminders  
+- Plate and preparation waste in restaurants  
 
-- 50% of food waste occurs at **households** due to expiry neglect & overbuying  
-- 20–30% occurs at **restaurants** from plate & prep waste  
-- Confusion between **“Best Before” vs “Use By”**
-- No real-time food tracking
-- No personalized expiry alerts
-- Inefficient food donation pipelines
+The result is **resource loss, methane emissions, food insecurity, and economic loss**, despite millions facing hunger.
 
 ---
 
-## 💡 Our Solution
+## 💡 What PANTRIX Does
+- 📱 AI app with expiry alerts, health warnings & recipe suggestions  
+- 📦 IoT pantry tracking using QR, weight & temperature sensors  
+- 🍽️ Smart plate system to monitor and reduce restaurant waste  
+- 🤝 Automated connection to food banks for surplus redistribution  
 
-PANTRIX offers a **multi-angle, automated, and intelligent solution**:
+---
 
-### 🧠 Smart App + AI Chatbot
-- Track food inventory &
+## 🛠 Tech Stack
+Flutter • Firebase • Gemini API • Python • TensorFlow Lite • ESP32
 
+---
 
+**Because every grain counts.** 🌾
