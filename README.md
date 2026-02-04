@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌱 PANTRIX  
+### Smart Food Management for a Sustainable Tomorrow  
+**Aligned with UN Sustainable Development Goal 12 – Responsible Consumption & Production**
 
-# Run and deploy your AI Studio app
+> *“Because every grain counts, let’s safeguard our global pantry for a sustainable tomorrow.”*
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1z2cvKx1jdyOmnzHJVQnRlDxxwugt4aai
+## 🚀 About PANTRIX
 
-## Run Locally
+**PANTRIX** is an **AI + IoT powered smart food management platform** designed to reduce food waste at **homes, restaurants, and communities**.  
+It tackles one of the world’s biggest sustainability challenges:
 
-**Prerequisites:**  Node.js
+📉 **1/3rd of global food production is wasted every year**, leading to:
+- Methane emissions 🌍  
+- Water & energy loss 💧⚡  
+- Food insecurity 🍽️  
+
+PANTRIX transforms food from *forgotten* to *flourishing*.
+
+---
+
+## 🎯 Problem Statement
+
+- 50% of food waste occurs at **households** due to expiry neglect & overbuying  
+- 20–30% occurs at **restaurants** from plate & prep waste  
+- Confusion between **“Best Before” vs “Use By”**
+- No real-time food tracking
+- No personalized expiry alerts
+- Inefficient food donation pipelines
+
+---
+
+## 💡 Our Solution
+
+PANTRIX offers a **multi-angle, automated, and intelligent solution**:
+
+### 🧠 Smart App + AI Chatbot
+- Track food inventory &
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
